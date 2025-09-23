@@ -36,3 +36,5 @@ En resumen, los objetivos de una "nutriapp" se centran en simplificar, personali
 
 **JESUS EDUARDO NOLASCO FLORES**.
 
+![image alt](https://github.com/JesusNolasco35/Mi-primer-repositorio-3-semestre/blob/main/yo.jpg?raw=true)
+
